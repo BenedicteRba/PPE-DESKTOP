@@ -107,7 +107,7 @@ LHUILLIER JESSIE  lhuillier14@gmail.com  Dév.
 
 DUPARC ALEXANDRE duparc.alexandre94@gmail.com Dév.
  
-ROBERTO BENEDICTE broberto@hotmail.fr Dév. 
+ROBERTO BENEDICTE benedicte.roberto@gmail.fr Dév. 
 
 DULONG RAPHAEL 	raphael.dulong@gmail.com Dév.
  
